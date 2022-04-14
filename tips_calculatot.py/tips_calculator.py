@@ -1,6 +1,6 @@
 print("TIPS CALCULATOR")
 input("What is your total bill in digits only")
-print('Now )
+print('Now')
 
 
 
