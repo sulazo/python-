@@ -1,0 +1,5 @@
+statesofNigeria=["oyo","Lagos","Ondo","Ogun","Anambra","Imo","Kaduna","Kano","Sokoto","Rivers",]
+print(statesofNigeria[0])
+print(statesofNigeria[-1])
+# append,extend(add list to list),remove,pop
+# dont memorize try learn how things work so that you have space in your brain to learn how things work.read documentation
